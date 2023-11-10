@@ -1,1 +1,1 @@
-My solutions for codewars.com
+My solutions for coding challenges and assesments.
